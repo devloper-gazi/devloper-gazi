@@ -104,6 +104,6 @@ class CurrentGoals:
 
 <div align="center">
   
-### 💫 "The best way to find vulnerabilities is to automate the hunt!"
+### 💫 “Sometimes it is the people no one can imagine anything of who do the things no one can imagine.” 
 
 </div>
