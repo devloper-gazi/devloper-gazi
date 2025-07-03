@@ -1,5 +1,7 @@
 # Hi there! 👋 I'm Gazi
 
+<!-- This is a special repository! The README.md will show up on my GitHub profile -->
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Bug+Bounty+Hunter;Security+Researcher;Automation+Enthusiast;Always+Learning+New+Things!" alt="Typing SVG" />
 </div>
