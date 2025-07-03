@@ -1,109 +1,62 @@
-# Hi there! 👋 I'm Gazi
-
-<!-- This is a special repository! The README.md will show up on my GitHub profile -->
+# Hi there 👋 I’m **Gazi**
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Bug+Bounty+Hunter;Security+Researcher;Automation+Enthusiast;Always+Learning+New+Things!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=520&lines=AI+Researcher;Automation+Builder;Data+Science+Explorer;Lifelong+Learner" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
-
-- 🌍 **Research-Driven Creator** | **AI & Automation Explorer**
-- 🤖 **AI & Automation Enthusiast** — Designing intelligent systems that make work faster, smarter, and easier  
-- 🔍 **Curious Mind** — Passionate about exploring cutting-edge machine learning and data science technologies  
-- 🛠️ **Builder at Heart** — Crafting innovative tools and frameworks for research and real-world impact  
-- 📚 **Lifelong Learner** — Always evolving, always experimenting, always improving 
+- 🌍 **Research-Driven Creator** &mdash; fusing theory and practice across AI, photonics and computational science  
+- 🤖 **Automation Architect** &mdash; building systems that learn, adapt and accelerate workflows  
+- 🔬 **Experimental Thinker** &mdash; from quantum condensate simulations to ethical trading algorithms  
+- 📝 **Published Author** &mdash; recent work: *“From Ether to Algorithms: The Lightborne Future of Information Systems”*  
+- 📚 **Forever Curious** &mdash; exploring new math, models and methodologies every single day  
 
 ## 🛠️ Tech Stack
+| Languages | Frameworks & Libraries | Tooling |
+|-----------|------------------------|---------|
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![C/C++](https://img.shields.io/badge/C/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
 
-<div align="center">
-  
-### Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+## 📚 Selected Publications
+- **From Ether to Algorithms: The Lightborne Future of Information Systems** (2025) – photonic supersolids & next-gen computation  
+- Comprehensive list on [ResearchGate](https://www.researchgate.net/profile/Mahmut-Guezel-5)  
 
-### Security Tools
-![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
-![Nmap](https://img.shields.io/badge/-Nmap-4682B4?style=flat-square&logo=nmap&logoColor=white)
-![Metasploit](https://img.shields.io/badge/-Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
-
-### Development
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-</div>
+## 💡 Featured Projects
+| Project | Brief |
+|---------|-------|
+| [Decentralized Knowledge Guardian](https://github.com/devloper-gazi/Decentralized-Knowledge-Guardian) | Rust-powered network that filters harmful content while promoting open science |
+| [QuantumBreaths1D](https://github.com/devloper-gazi/QuantumBreaths1D) | Split-step Fourier simulation of Bose-Einstein condensates in periodic lattices |
+| [3D Polariton Condensate Simulation](https://github.com/devloper-gazi/3D-Polariton-Condensate-Simulation) | Python solver for 3D Gross–Pitaevskii dynamics in photonic potentials |
+| [FX Trading Bot v0.1](https://github.com/devloper-gazi/Fx_trading_bot_v0.1) | Early prototype for AI-assisted algorithmic trading strategies |
+| [Ethical Foundations of AI Trading Systems](https://github.com/devloper-gazi/Ethical-Foundations-of-AI-Trading-Systems) | Framework for market-microstructure analysis and ethical algorithm design |
 
 ## 📊 GitHub Stats
-
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devloper-gazi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devloper-gazi&layout=compact&theme=tokyonight"/>
-</div>
-
-<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=devloper-gazi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devloper-gazi&layout=compact&theme=tokyonight"/>
+  <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=devloper-gazi&theme=tokyonight" alt="GitHub Streak"/>
 </div>
 
-## 🎯 Featured Projects
-
-### 🔍 [Automatic Bug Bounty Framework](https://github.com/devloper-gazi/Automatic-Bug-Bounty-main)
-> **A minimal yet extensible framework to orchestrate bug-bounty automation tasks on Kali Linux**
-> 
-> - 🎯 Automated reconnaissance and vulnerability scanning
-> - 🚀 GPU-accelerated ML workloads for security analysis
-> - 🔧 Extensible agent system for custom tools
-> - 📊 Built-in reporting and analytics
-
-**Tech Stack:** `Python` `Kali Linux` `ML/AI` `Automation`
-
-## 🏆 Achievements
-
-- 🎖️ **Bug Bounty Hunter** - Discovered multiple vulnerabilities across various platforms
-- 🔧 **Open Source Contributor** - Building tools for the security community
-- 🚀 **Automation Specialist** - Streamlining security workflows
-
-## 🌟 Current Focus
+## 🎯 Current Focus
 
 ```python
 class CurrentGoals:
-    def __init__(self):
-        self.learning = ["Advanced Web Security", "AI/ML in Security", "Cloud Security"]
-        self.building = ["Automated Bug Bounty Tools", "Security Frameworks"]
-        self.hunting = ["Web Applications", "APIs", "Mobile Applications"]
-    
-    def get_motto(self):
-        return "Automate the boring stuff, focus on the interesting vulnerabilities! 🔍"
+    learning  = ["Multi-Agent AI", "Photonic Computing", "Advanced Rust"]
+    building  = ["Telepath Orchestrator", "AI-Driven Research Tools"]
+    exploring = ["Condensed-Matter ML", "Autonomous Data Pipelines"]
+
+    @staticmethod
+    def motto():
+        return "Research boldly, code elegantly, iterate endlessly 🌀"
 ```
+🏆 Achievements
 
-## 📈 Activity Graph
+    🏅 GitHub Achievements: YOLO, Quickdraw
 
+    ✍️ Peer-reviewed author and open-source contributor
+
+🤝 Let’s Connect
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devloper-gazi&theme=tokyo-night&hide_border=true" />
-</div>
-
-## 🤝 Let's Connect
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devloper-gazi)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/devloper_gazi)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:developer-gazi@proton.me)
 
 </div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=devloper-gazi&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</div>
-
-<div align="center">
-  
-### 💫 “Sometimes it is the people no one can imagine anything of who do the things no one can imagine.” 
-
-</div>
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=devloper-gazi&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" /> </div> <div align="center"> 💫 *“Sometimes it is the people no one can imagine anything of who do the things no one can imagine.”* </div> ```
