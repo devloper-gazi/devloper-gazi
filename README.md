@@ -1,165 +1,189 @@
-"use client";
-import { motion } from "framer-motion";
-import { Typewriter } from "react-simple-typewriter";
-import { Card, CardContent } from "@/components/ui/card";
-import { Button } from "@/components/ui/button";
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ee7752,10:e73c7e,20:23a6d5,30:23d5ab&height=100&section=header&text=&fontSize=0" width="100%"/>
+</div>
 
-export default function PortfolioPage() {
-  return (
-    <main className="flex flex-col min-h-screen bg-gradient-to-br from-cyan-400 via-sky-300 to-emerald-200 dark:from-[#0d1117] dark:via-[#0d1117] dark:to-[#0d1117]">
-      {/* Hero */}
-      <section
-        className="relative flex flex-col items-center justify-center flex-1 px-6 py-20 text-center text-neutral-800 dark:text-neutral-100"
-      >
-        <motion.h1
-          initial={{ opacity: 0, y: 40 }}
-          animate={{ opacity: 1, y: 0 }}
-          transition={{ duration: 0.8 }}
-          className="text-5xl font-extrabold leading-tight sm:text-6xl lg:text-7xl"
-          style={{
-            background:
-              "linear-gradient(90deg, rgba(18,216,250,1) 0%, rgba(166,255,203,1) 100%)",
-            WebkitBackgroundClip: "text",
-            WebkitTextFillColor: "transparent",
-          }}
-        >
-          Mahmut Gazi Güzel
-        </motion.h1>
-        <motion.p
-          initial={{ opacity: 0, y: 20 }}
-          animate={{ opacity: 1, y: 0 }}
-          transition={{ delay: 0.3, duration: 0.8 }}
-          className="mt-4 text-2xl font-semibold"
-        >
-          <Typewriter
-            words={[
-              "Researcher Student",
-              "AI & Quantum Computing Enthusiast",
-              "Photonic Computing Pioneer",
-            ]}
-            loop={false}
-            cursor
-            cursorStyle="_"
-            typeSpeed={70}
-            deleteSpeed={50}
-            delaySpeed={2000}
-          />
-        </motion.p>
-        <motion.div
-          initial={{ opacity: 0, scale: 0.9 }}
-          animate={{ opacity: 1, scale: 1 }}
-          transition={{ delay: 0.6, duration: 0.6 }}
-          className="mt-8 flex gap-4"
-        >
-          <Button size="lg">Contact Me</Button>
-          <Button variant="secondary" size="lg">
-            Download CV
-          </Button>
-        </motion.div>
-      </section>
+<div align="center">
+  <h1 style="font-weight: 700; font-size: 48px;">
+    <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" style="vertical-align: middle;"/> 
+    &nbsp;Gazi&nbsp;
+    <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" style="vertical-align: middle;"/>
+  </h1>
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=435&lines=Research+Student" alt="Typing SVG" />
+  
+  <br/>
+  
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</div>
 
-      {/* About */}
-      <section className="relative z-10 w-full bg-white/60 backdrop-blur-lg dark:bg-[#0d1117]/60 py-20 px-6">
-        <div className="mx-auto max-w-4xl">
-          <h2 className="text-4xl font-bold mb-6 text-center">About Me</h2>
-          <p className="text-lg leading-relaxed text-neutral-800 dark:text-neutral-300">
-            🔬 I’m a <strong>Researcher Student</strong> exploring the intersection of
-            <strong> AI</strong>, <strong>Quantum Computing</strong>, and
-            <strong> Photonics</strong>. <br />🚀 I build intelligent systems
-            that bridge theoretical physics with practical applications. <br />📚
-            Recently published: <em>“From Ether to Algorithms: The Lightborne
-            Future of Information Systems”</em>.<br />⚡ Currently focused on
-            <strong> Multi‑Agent AI</strong>, <strong>Photonic Computing</strong>, and
-            <strong> Ethical Trading Systems</strong>.
-          </p>
-        </div>
-      </section>
+<br/>
 
-      {/* Tech Stack */}
-      <section className="py-20 px-6 bg-gradient-to-tr from-emerald-200 via-cyan-200 to-sky-200 dark:bg-[#0d1117]">
-        <div className="mx-auto max-w-6xl">
-          <h2 className="text-4xl font-bold text-center mb-10">Tech Arsenal</h2>
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
-            <Card className="bg-white/70 dark:bg-[#161B22]">
-              <CardContent className="p-6 flex flex-col items-center gap-4">
-                <h3 className="text-2xl font-semibold mb-2">🎯 Core Languages</h3>
-                <img
-                  src="https://skillicons.dev/icons?i=python,rust,js,ts,go,cpp&perline=3"
-                  alt="Core Languages"
-                />
-              </CardContent>
-            </Card>
-            <Card className="bg-white/70 dark:bg-[#161B22]">
-              <CardContent className="p-6 flex flex-col items-center gap-4">
-                <h3 className="text-2xl font-semibold mb-2">🛠️ Frameworks & Tools</h3>
-                <img
-                  src="https://skillicons.dev/icons?i=pytorch,tensorflow,react,nextjs,docker,kubernetes&perline=3"
-                  alt="Frameworks & Tools"
-                />
-              </CardContent>
-            </Card>
-          </div>
-        </div>
-      </section>
-
-      {/* Projects */}
-      <section className="py-20 px-6 bg-white dark:bg-[#0d1117]">
-        <div className="mx-auto max-w-6xl">
-          <h2 className="text-4xl font-bold text-center mb-10">Featured Projects</h2>
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
-            {[
-              {
-                title: "Decentralized Knowledge Guardian",
-                desc: "Rust-powered network for ethical content filtering",
-                link: "https://github.com/devloper-gazi/Decentralized-Knowledge-Guardian",
-                icon: "https://img.icons8.com/3d-fluency/94/artificial-intelligence.png",
-              },
-              {
-                title: "QuantumBreaths1D",
-                desc: "BEC simulation in periodic optical lattices",
-                link: "https://github.com/devloper-gazi/QuantumBreaths1D",
-                icon: "https://img.icons8.com/3d-fluency/94/physics.png",
-              },
-              {
-                title: "FX Trading Bot v0.1",
-                desc: "AI-driven algorithmic trading with ethical framework",
-                link: "https://github.com/devloper-gazi/Fx_trading_bot_v0.1",
-                icon: "https://img.icons8.com/3d-fluency/94/combo-chart.png",
-              },
-              {
-                title: "3D Polariton Condensate",
-                desc: "GPU-accelerated quantum fluid dynamics simulation",
-                link: "https://github.com/devloper-gazi/3D-Polariton-Condensate-Simulation",
-                icon: "https://img.icons8.com/3d-fluency/94/molecule.png",
-              },
-            ].map((p) => (
-              <Card key={p.title} className="bg-white/70 dark:bg-[#161B22]">
-                <CardContent className="p-6 flex flex-col items-center text-center gap-4">
-                  <img src={p.icon} alt={p.title} className="w-16 h-16" />
-                  <h3 className="text-xl font-semibold">{p.title}</h3>
-                  <p className="text-base text-neutral-700 dark:text-neutral-400">
-                    {p.desc}
-                  </p>
-                  <Button asChild>
-                    <a href={p.link} target="_blank" rel="noopener noreferrer">
-                      View Project
-                    </a>
-                  </Button>
-                </CardContent>
-              </Card>
-            ))}
-          </div>
-        </div>
-      </section>
-
-      {/* Footer */}
-      <footer className="py-10 bg-gradient-to-tr from-sky-300 to-emerald-300 dark:bg-[#0d1117] text-center text-neutral-800 dark:text-neutral-200">
-        <p className="text-lg font-medium">
-          "Sometimes it is the people no one can imagine anything of who do the
-          things no one can imagine." — Alan Turing
+<div align="center">
+  <table border="0" style="border: none;">
+    <tr>
+      <td width="50%" style="border: none;">
+        <h3 align="center">👋 Hello World!</h3>
+        <p align="center">
+          I'm a <strong>Research Student</strong> passionate about bridging the gap between 
+          theoretical physics and practical AI applications. My journey spans from 
+          quantum computing simulations to building ethical trading systems.
         </p>
-        <p className="mt-4">© {new Date().getFullYear()} Mahmut Gazi Güzel</p>
-      </footer>
-    </main>
-  );
-}
+      </td>
+      <td width="50%" style="border: none;">
+        <div align="center">
+          <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400px"/>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"> What I Do
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="25%">
+        <img src="https://img.icons8.com/nolan/64/artificial-intelligence.png" width="60px"/>
+        <br/><br/>
+        <strong>AI Research</strong>
+        <br/>
+        <sub>Deep Learning • Multi-Agent Systems • Neural Networks</sub>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://img.icons8.com/nolan/64/quantum.png" width="60px"/>
+        <br/><br/>
+        <strong>Quantum Computing</strong>
+        <br/>
+        <sub>BEC Simulations • Photonic Systems • Quantum Algorithms</sub>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://img.icons8.com/nolan/64/code.png" width="60px"/>
+        <br/><br/>
+        <strong>Software Engineering</strong>
+        <br/>
+        <sub>Systems Design • Automation • Open Source</sub>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://img.icons8.com/nolan/64/combo-chart.png" width="60px"/>
+        <br/><br/>
+        <strong>Data Science</strong>
+        <br/>
+        <sub>Trading Algorithms • Market Analysis • Predictive Models</sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+## <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-9893fc773e44.gif" width="25"> Tech Stack
+
+<div align="center">
+  
+  <img src="https://skillicons.dev/icons?i=python,rust,js,ts,go,cpp,c" />
+  
+  <br/>
+  
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,react,nextjs,nodejs,express,fastapi" />
+  
+  <br/>
+  
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,linux,aws,postgres,mongodb" />
+  
+</div>
+
+<br/>
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="25"> Featured Work
+
+<div align="center">
+  <a href="https://github.com/devloper-gazi/Decentralized-Knowledge-Guardian">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devloper-gazi&repo=Decentralized-Knowledge-Guardian&theme=transparent&hide_border=true&title_color=6366F1&text_color=94A3B8&icon_color=6366F1&bg_color=0d1117" />
+  </a>
+  <a href="https://github.com/devloper-gazi/QuantumBreaths1D">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devloper-gazi&repo=QuantumBreaths1D&theme=transparent&hide_border=true&title_color=6366F1&text_color=94A3B8&icon_color=6366F1&bg_color=0d1117" />
+  </a>
+  <a href="https://github.com/devloper-gazi/3D-Polariton-Condensate-Simulation">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devloper-gazi&repo=3D-Polariton-Condensate-Simulation&theme=transparent&hide_border=true&title_color=6366F1&text_color=94A3B8&icon_color=6366F1&bg_color=0d1117" />
+  </a>
+  <a href="https://github.com/devloper-gazi/Fx_trading_bot_v0.1">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devloper-gazi&repo=Fx_trading_bot_v0.1&theme=transparent&hide_border=true&title_color=6366F1&text_color=94A3B8&icon_color=6366F1&bg_color=0d1117" />
+  </a>
+</div>
+
+<br/>
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="25"> Recent Publication
+
+<div align="center">
+  <table style="border: none;">
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://img.icons8.com/nolan/96/book.png" width="80px"/>
+        <br/><br/>
+        <h3>From Ether to Algorithms: The Lightborne Future of Information Systems</h3>
+        <p><em>2025 • Exploring photonic supersolids & next-generation computation paradigms</em></p>
+        <br/>
+        <a href="https://www.researchgate.net/profile/Mahmut-Guezel-5">
+          <img src="https://img.shields.io/badge/View_All_Publications-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="25"> GitHub Analytics
+
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=devloper-gazi&show_icons=true&count_private=true&hide_border=true&title_color=6366F1&icon_color=6366F1&text_color=c9d1d9&bg_color=0d1117" alt="Gazi's github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devloper-gazi&layout=compact&hide_border=true&title_color=6366F1&text_color=c9d1d9&bg_color=0d1117" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devloper-gazi&theme=transparent&hide_border=true&stroke=6366F1&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub Streak"/>
+</div>
+
+<br/>
+
+## <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="25"> Currently Working On
+
+```typescript
+const currentFocus = {
+  research: ["Multi-Agent AI Systems", "Photonic Computing", "Quantum ML"],
+  building: ["Telepath Orchestrator", "AI Research Tools"],
+  learning: ["Advanced Rust", "Distributed Systems", "Category Theory"],
+  philosophy: "Research boldly, code elegantly, iterate endlessly 🌀"
+};
+```
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>
+    <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="20"/> 
+    "Sometimes it is the people no one can imagine anything of who do the things no one can imagine." 
+    <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="20"/>
+  </h3>
+  <p><em>- Alan Turing</em></p>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=devloper-gazi&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ee7752,10:e73c7e,20:23a6d5,30:23d5ab&height=100&section=footer&text=&fontSize=0" width="100%"/>
+</div>
