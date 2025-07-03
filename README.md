@@ -8,10 +8,11 @@
 
 ## 🚀 About Me
 
-- 🔐 **Security Researcher** specializing in bug bounty hunting
-- 🤖 **Automation Enthusiast** - Building tools to streamline security testing
-- 🧠 **Always Learning** - Constantly exploring new vulnerabilities and techniques
-- 💡 **Creator** of automated bug bounty frameworks and tools
+- 🌍 **Research-Driven Creator** | **AI & Automation Explorer**
+- 🤖 **AI & Automation Enthusiast** — Designing intelligent systems that make work faster, smarter, and easier  
+- 🔍 **Curious Mind** — Passionate about exploring cutting-edge machine learning and data science technologies  
+- 🛠️ **Builder at Heart** — Crafting innovative tools and frameworks for research and real-world impact  
+- 📚 **Lifelong Learner** — Always evolving, always experimenting, always improving 
 
 ## 🛠️ Tech Stack
 
