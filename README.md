@@ -59,4 +59,4 @@ class CurrentGoals:
 <div align="center">
 
 </div>
-<div align="center"> <img src="https://komarev.com/ghpvc/?username=devloper-gazi&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" /> </div> <div align="center"> 💫 *“Sometimes it is the people no one can imagine anything of who do the things no one can imagine.”* </div> ```
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=devloper-gazi&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" /> </div> <div align="center"> 💫 “*Sometimes it is the people no one can imagine anything of who do the things no one can imagine.*” </div> ```
