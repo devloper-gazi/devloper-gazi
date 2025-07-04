@@ -185,8 +185,6 @@ const currentFocus = {
   </div>
   
   <br/><br/>
-  
-  <img src="https://komarev.com/ghpvc/?username=devloper-gazi&style=for-the-badge&color=12D8FA&label=PROFILE+VIEWS" />
 </div>
 
 <div align="center">
