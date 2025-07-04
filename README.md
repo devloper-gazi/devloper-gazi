@@ -1,7 +1,6 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/devloper-gazi/devloper-gazi/main/head2.gif" width="900" alt="Yükleniyor...">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  <br/><br/>
+
 </div>
 <div align="center">
     <h1>
@@ -9,7 +8,8 @@
     Hi, Welcome to my Github Page
   </h1>
 </div>
-
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <br/><br/>
 
 <br/>
 
