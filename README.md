@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ibb.co/5WRcNxGZ/loader.gif">
+## <img src="https://i.ibb.co/5WRcNxGZ/loader.gif" width="25"> Tech Stack
   <br/><br/>
 </div>
 <div align="center">
