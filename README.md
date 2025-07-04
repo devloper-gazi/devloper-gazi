@@ -181,7 +181,7 @@ const currentFocus = {
 ## <img src="https://raw.githubusercontent.com/devloper-gazi/devloper-gazi/main/Lightning.gif" width="25px" alt="Lightning"> Technologies
 
 <div align="center">
-  <table  border-color="white">
+  <table  bgcolor="black">
     <tr  border="0">
       <td align="center" width="96"  border="0">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="48" height="48" />
