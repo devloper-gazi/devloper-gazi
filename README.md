@@ -10,10 +10,6 @@
   </h1>
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=435&lines=Research+Student" alt="Typing SVG" />
-  
-  <br/>
-  
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 </div>
 
 <br/>
