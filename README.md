@@ -1,5 +1,6 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/devloper-gazi/devloper-gazi/main/head2.gif" width="900" alt="Yükleniyor...">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   <br/><br/>
 </div>
 <div align="center">
@@ -161,8 +162,7 @@ const currentFocus = {
 
 <!-- Footer with Quote -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  <br/><br/>
+
   
   <div style="background: linear-gradient(45deg, #12D8FA, #A6FFCB); padding: 2px; border-radius: 10px; display: inline-block;">
     <div style="background: #0d1117; padding: 20px 40px; border-radius: 8px;">
