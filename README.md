@@ -67,27 +67,6 @@ const gazi: Developer = {
 
 <br/>
 
-<!-- About Section - Tailwind Style -->
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <h3>👨‍💻 About Me</h3>
-        <p align="left">
-          I'm a <strong>Researcher Student</strong> passionate about the intersection of theoretical physics and practical AI applications. 
-          My work spans from quantum computing simulations to building ethical trading systems, always exploring the boundaries 
-          of what's possible with code and mathematics.
-        </p>
-        <p align="left">
-          <strong>📚 Latest Publication:</strong> <em>"From Ether to Algorithms: The Lightborne Future of Information Systems"</em> (2025)
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br/>
-
 <!-- Tech Stack - Modern Grid -->
 <h2 align="center">⚡ Technologies</h2>
 
