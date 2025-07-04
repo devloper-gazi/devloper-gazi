@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.ibb.co/5WRcNxGZ/loader.gif" alt="https://i.ibb.co/5WRcNxGZ/loader.gif" width="389" height="692" class="shrinkToFit transparent">
+<img src="https://raw.githubusercontent.com/devloper-gazi/devloper-gazi/main/head.gif" width="60" alt="Yükleniyor...">
   <br/><br/>
 </div>
 <div align="center">
