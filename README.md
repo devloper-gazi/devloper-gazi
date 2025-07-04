@@ -237,7 +237,7 @@ export default {
   
   philosophy: 'Research boldly, code elegantly, iterate endlessly 🌀'
 }
-
+```
 <br />
 
 <!-- Footer with Quote -->
