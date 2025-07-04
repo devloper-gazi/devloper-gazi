@@ -178,7 +178,7 @@ const currentFocus = {
 <br/>
 
 <!-- Tech Stack - Modern Grid -->
-<h2 align="center">⚡ Technologies</h2>
+<h2 align="left">⚡ Technologies</h2>
 
 <div align="center">
   <table  border-color="white">
