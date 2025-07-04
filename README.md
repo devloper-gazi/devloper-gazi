@@ -49,28 +49,28 @@ const gazi: Developer = {
 
 <div align="center">
   <table  border="0">
-    <tr>
-      <td align="center" width="96">
+    <tr  border="0">
+      <td align="center" width="96"  border="0">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="48" height="48" />
         <br>Python
       </td>
-      <td align="center" width="96">
+      <td align="center" width="96" border="0">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="48" height="48" />
         <br>JavaScript
       </td>
-      <td align="center" width="96">
+      <td align="center" width="96"  border="0">
         <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="48" height="48" />
         <br>TypeScript
       </td>
-      <td align="center" width="96">
+      <td align="center" width="96"  border="0">
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="48" height="48" />
         <br>React
       </td>
-      <td align="center" width="96">
+      <td align="center" width="96"  border="0">
         <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="48" height="48" />
         <br>Docker
       </td>
-      <td align="center" width="96">
+      <td align="center" width="96" border="0">
         <img src="https://skillicons.dev/icons?i=rust" alt="Rust" width="48" height="48" />
         <br>Rust
       </td>
