@@ -48,7 +48,7 @@ const gazi: Developer = {
   <table border="0" style="border: none;">
     <tr>
       <td width="50%" style="border: none;">
-        <h3 align="center">👋 Hello World!</h3>
+        <h3 align="center"> 🌍 Hello World!</h3>
         <p align="center">
           I'm a <strong>Research Student</strong> passionate about bridging the gap between 
           theoretical physics and practical AI applications. My journey spans from 
