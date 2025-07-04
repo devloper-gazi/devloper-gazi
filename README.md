@@ -35,6 +35,40 @@
 </div>
 
 <br/>
+## 🌟 About Me
+
+<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+```typescript
+interface Developer {
+  name: string;
+  role: string[];
+  expertise: string[];
+  currentFocus: string[];
+  philosophy: string;
+}
+
+const gazi: Developer = {
+  name: "Gazi",
+  role: ["AI Researcher", "Automation Architect", "Published Author"],
+  expertise: [
+    "🤖 Machine Learning & Deep Learning",
+    "🔬 Quantum Computing & Photonics", 
+    "📊 Algorithmic Trading Systems",
+    "⚡ Process Automation & Optimization"
+  ],
+  currentFocus: [
+    "Multi-Agent AI Systems",
+    "Photonic Computing Research",
+    "Ethical AI Trading Frameworks"
+  ],
+  philosophy: "Research boldly, code elegantly, iterate endlessly 🌀"
+};
+```
+
+<br clear="right"/>
+
+---
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"> What I Do
 
