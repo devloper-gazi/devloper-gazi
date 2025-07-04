@@ -44,208 +44,199 @@ const gazi: Developer = {
 
 <br/>
 
-<!-- Modern Bio Section -->
-<table align="center" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse;">
-  <tr>
-    <td width="500" style="padding: 40px; background: linear-gradient(135deg, #ffffff 0%, #fafafa 100%); border-radius: 12px;">
-      <h3 style="margin: 0; font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 600; font-size: 14px; letter-spacing: -0.02em; color: #000;">
-        Hello, World
-      </h3>
-      <p style="margin: 16px 0 0 0; font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 400; font-size: 14px; line-height: 1.6; color: #666;">
-        I'm a researcher student exploring the convergence of artificial intelligence and quantum computing. 
-        My work focuses on building systems that bridge theoretical physics with practical applications.
-      </p>
-      <p style="margin: 16px 0 0 0; font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif; font-weight: 400; font-size: 12px; color: #999;">
-        Currently: Multi-Agent AI • Photonic Computing • Ethical Trading Systems
-      </p>
-    </td>
-  </tr>
-</table>
-```
-
-<br />
-
-<!-- Tech Stack - Vercel Style -->
+<!-- Minimal Modern Intro -->
 <div align="center">
-  <h4>TECHNOLOGIES</h4>
+  <h1>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35px" />
+    Hi, I'm Gazi
+  </h1>
   
-  <!-- Primary Stack -->
-  <p>
-    <img src="https://img.shields.io/badge/-Python-000000?style=flat-square&logo=Python&logoColor=white" height="25" />
-    <img src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=Rust&logoColor=white" height="25" />
-    <img src="https://img.shields.io/badge/-TypeScript-000000?style=flat-square&logo=TypeScript&logoColor=white" height="25" />
-    <img src="https://img.shields.io/badge/-Go-000000?style=flat-square&logo=Go&logoColor=white" height="25" />
-  </p>
+  <a href="#">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3500&pause=1000&color=64748B&center=true&vCenter=true&width=440&lines=Researcher+Student;AI+%26+Quantum+Computing+Explorer;Open+Source+Contributor" alt="Typing SVG" />
+  </a>
   
-  <!-- Frameworks -->
-  <p>
-    <img src="https://img.shields.io/badge/-PyTorch-ffffff?style=flat-square&logo=PyTorch&logoColor=black" height="25" />
-    <img src="https://img.shields.io/badge/-Next.js-ffffff?style=flat-square&logo=Next.js&logoColor=black" height="25" />
-    <img src="https://img.shields.io/badge/-TensorFlow-ffffff?style=flat-square&logo=TensorFlow&logoColor=black" height="25" />
-    <img src="https://img.shields.io/badge/-React-ffffff?style=flat-square&logo=React&logoColor=black" height="25" />
-  </p>
+  <br/>
+  
+  <!-- Modern Badges -->
+  <a href="https://www.researchgate.net/profile/Mahmut-Guezel-5">
+    <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=ResearchGate&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Quantum%20Computing-0EA5E9?style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=devloper-gazi&style=flat-square&color=0EA5E9" alt="Profile Views" />
 </div>
 
-<br />
+<br/>
 
-<!-- Featured Work - Minimal Cards -->
+<!-- About Section - Tailwind Style -->
 <div align="center">
-  <h4>FEATURED WORK</h4>
+  <table>
+    <tr>
+      <td>
+        <h3>👨‍💻 About Me</h3>
+        <p align="left">
+          I'm a <strong>Researcher Student</strong> passionate about the intersection of theoretical physics and practical AI applications. 
+          My work spans from quantum computing simulations to building ethical trading systems, always exploring the boundaries 
+          of what's possible with code and mathematics.
+        </p>
+        <p align="left">
+          <strong>📚 Latest Publication:</strong> <em>"From Ether to Algorithms: The Lightborne Future of Information Systems"</em> (2025)
+        </p>
+      </td>
+    </tr>
+  </table>
 </div>
+
+<br/>
+
+<!-- Tech Stack - Modern Grid -->
+<h2 align="center">⚡ Technologies</h2>
 
 <div align="center">
   <table>
     <tr>
-      <td width="50%" valign="top">
-        <div align="center">
-          <a href="https://github.com/devloper-gazi/Decentralized-Knowledge-Guardian">
-            <img src="https://img.shields.io/badge/01-000000?style=for-the-badge" width="60" />
-          </a>
-          <h5>Decentralized Knowledge Guardian</h5>
-          <p>Rust-powered ethical content network</p>
-          <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
-          <img src="https://img.shields.io/badge/P2P-000000?style=flat-square" />
-        </div>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="48" height="48" />
+        <br>Python
       </td>
-      <td width="50%" valign="top">
-        <div align="center">
-          <a href="https://github.com/devloper-gazi/QuantumBreaths1D">
-            <img src="https://img.shields.io/badge/02-000000?style=for-the-badge" width="60" />
-          </a>
-          <h5>QuantumBreaths1D</h5>
-          <p>BEC simulation in optical lattices</p>
-          <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white" />
-          <img src="https://img.shields.io/badge/Physics-000000?style=flat-square" />
-        </div>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="48" height="48" />
+        <br>JavaScript
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="48" height="48" />
+        <br>TypeScript
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="48" height="48" />
+        <br>React
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="48" height="48" />
+        <br>Docker
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=rust" alt="Rust" width="48" height="48" />
+        <br>Rust
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=go" alt="Go" width="48" height="48" />
+        <br>Go
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="48" height="48" />
+        <br>C++
       </td>
     </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,nodejs,nextjs,tailwind,postgres,mongodb,linux,git&theme=dark" />
+</div>
+
+<br/>
+
+<!-- Current Work - Modern Cards -->
+<h2 align="center">🚀 What I'm Working On</h2>
+
+<div align="center">
+  <table>
     <tr>
-      <td width="50%" valign="top">
+      <td width="50%">
+        <h3 align="center">🔬 Research</h3>
         <div align="center">
-          <a href="https://github.com/devloper-gazi/3D-Polariton-Condensate-Simulation">
-            <img src="https://img.shields.io/badge/03-000000?style=for-the-badge" width="60" />
-          </a>
-          <h5>3D Polariton Condensate</h5>
-          <p>GPU-accelerated quantum simulation</p>
-          <img src="https://img.shields.io/badge/CUDA-000000?style=flat-square&logo=nvidia&logoColor=white" />
-          <img src="https://img.shields.io/badge/3D-000000?style=flat-square" />
+          <br/>
+          <p><b>Multi-Agent AI Systems</b></p>
+          <p><b>Photonic Computing</b></p>
+          <p><b>Quantum Machine Learning</b></p>
+          <br/>
         </div>
       </td>
-      <td width="50%" valign="top">
+      <td width="50%">
+        <h3 align="center">💻 Development</h3>
         <div align="center">
-          <a href="https://github.com/devloper-gazi/Fx_trading_bot_v0.1">
-            <img src="https://img.shields.io/badge/04-000000?style=for-the-badge" width="60" />
-          </a>
-          <h5>FX Trading Bot</h5>
-          <p>AI-driven ethical trading system</p>
-          <img src="https://img.shields.io/badge/AI-000000?style=flat-square" />
-          <img src="https://img.shields.io/badge/Trading-000000?style=flat-square" />
+          <br/>
+          <p><b>Telepath Orchestrator</b></p>
+          <p><b>AI Research Tools</b></p>
+          <p><b>Ethical Trading Systems</b></p>
+          <br/>
         </div>
       </td>
     </tr>
   </table>
 </div>
 
-<br />
+<br/>
 
-<!-- GitHub Stats - Vercel Minimal Style -->
+<!-- Featured Projects - Minimal Cards -->
+<h2 align="center">📌 Featured Projects</h2>
+
 <div align="center">
-  <h4>GITHUB METRICS</h4>
+  <a href="https://github.com/devloper-gazi/Decentralized-Knowledge-Guardian">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=devloper-gazi&repo=Decentralized-Knowledge-Guardian&theme=dark&hide_border=true&bg_color=0F172A&title_color=94A3B8&text_color=64748B&icon_color=0EA5E9" />
+  </a>
+  <a href="https://github.com/devloper-gazi/QuantumBreaths1D">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=devloper-gazi&repo=QuantumBreaths1D&theme=dark&hide_border=true&bg_color=0F172A&title_color=94A3B8&text_color=64748B&icon_color=0EA5E9" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/devloper-gazi/3D-Polariton-Condensate-Simulation">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=devloper-gazi&repo=3D-Polariton-Condensate-Simulation&theme=dark&hide_border=true&bg_color=0F172A&title_color=94A3B8&text_color=64748B&icon_color=0EA5E9" />
+  </a>
+  <a href="https://github.com/devloper-gazi/Fx_trading_bot_v0.1">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=devloper-gazi&repo=Fx_trading_bot_v0.1&theme=dark&hide_border=true&bg_color=0F172A&title_color=94A3B8&text_color=64748B&icon_color=0EA5E9" />
+  </a>
+</div>
+
+<br/>
+
+<!-- GitHub Stats - Clean Design -->
+<h2 align="center">📊 GitHub Statistics</h2>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devloper-gazi&show_icons=true&theme=dark&hide_border=true&bg_color=0F172A&title_color=94A3B8&text_color=64748B&icon_color=0EA5E9" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devloper-gazi&layout=compact&theme=dark&hide_border=true&bg_color=0F172A&title_color=94A3B8&text_color=64748B" />
+</div>
+
+<div align="center">
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=devloper-gazi&theme=dark&hide_border=true&background=0F172A&stroke=1E293B&ring=0EA5E9&fire=0EA5E9&currStreakLabel=94A3B8&currStreakNum=F1F5F9&sideNums=94A3B8&sideLabels=64748B&dates=64748B" />
+</div>
+
+<br/>
+
+<!-- Activity Graph -->
+<div align="center">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=devloper-gazi&theme=react-dark&hide_border=true&bg_color=0F172A&color=94A3B8&line=0EA5E9&point=64748B&area_color=0EA5E9&area=true" />
+</div>
+
+<br/>
+
+<!-- Code Block - Modern Terminal -->
+<div align="center">
+  <h2>💭 Current Focus</h2>
+</div>
+
+```javascript
+// researcher.config.js
+export default {
+  name: 'Gazi',
+  title: 'Researcher Student',
+  location: 'The intersection of AI and Physics',
   
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=devloper-gazi&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&title_color=000000&text_color=000000&icon_color=000000&hide=contribs" width="48%" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=devloper-gazi&layout=compact&hide_border=true&bg_color=00000000&title_color=000000&text_color=000000" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devloper-gazi&hide_border=true&background=00000000&stroke=000000&ring=000000&fire=000000&currStreakLabel=000000&currStreakNum=000000&sideNums=000000&sideLabels=000000&dates=666666" width="70%" />
-</div>
-
-<br />
-
-<!-- Publication Section - Vercel Card Style -->
-<div align="center">
-  <h4>RECENT PUBLICATION</h4>
-</div>
-
-```html
-<div align="center">
-  <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse;">
-    <tr>
-      <td style="background: #000000; color: #ffffff; padding: 40px; border-radius: 8px; width: 600px;">
-        <h3 style="margin: 0; font-family: 'Inter', sans-serif; font-weight: 600; font-size: 16px;">
-          From Ether to Algorithms: The Lightborne Future of Information Systems
-        </h3>
-        <p style="margin: 12px 0 0 0; font-family: 'Inter', sans-serif; font-weight: 400; font-size: 14px; color: #999999;">
-          2025 • Exploring photonic supersolids & next-generation computation
-        </p>
-        <a href="https://www.researchgate.net/profile/Mahmut-Guezel-5" style="display: inline-block; margin-top: 20px;">
-          <img src="https://img.shields.io/badge/READ_PAPER_%E2%86%92-ffffff?style=for-the-badge&labelColor=ffffff&color=ffffff" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-```
-
-<br />
-
-<!-- Current Focus - Terminal Style -->
-<div align="center">
-  <h4>TERMINAL</h4>
-</div>
-
-```bash
-$ gazi --current
-
-┌─ ACTIVE RESEARCH ─────────────────────────────────┐
-│                                                   │
-│  • Multi-Agent AI Systems                         │
-│  • Photonic Computing Architecture                │
-│  • Quantum-Classical Hybrid Models                │
-│                                                   │
-└───────────────────────────────────────────────────┘
-
-┌─ BUILDING ────────────────────────────────────────┐
-│                                                   │
-│  • Telepath Orchestrator                          │
-│  • AI Research Automation Tools                   │
-│  • Ethical Trading Framework v2                   │
-│                                                   │
-└───────────────────────────────────────────────────┘
-
-$ echo $PHILOSOPHY
-"Research boldly, code elegantly, iterate endlessly"
-```
-
-<br />
-
-<!-- Modern Activity Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devloper-gazi&custom_title=CONTRIBUTION%20GRAPH&hide_border=true&bg_color=ffffff&color=000000&line=000000&point=000000&area_color=000000&area=true&radius=0" width="90%" />
-</div>
-
-<br />
-
-<!-- Footer - Vercel Style -->
-<div align="center">
-  <p>
-    <img src="https://img.shields.io/badge/DEPLOYED%20ON-000000?style=for-the-badge&logo=vercel&logoColor=white" height="30" />
-  </p>
+  research: {
+    areas: ['Multi-Agent AI', 'Photonic Computing', 'Quantum ML'],
+    current: 'Building bridges between theoretical physics and practical AI'
+  },
   
-  <p>
-    <sub>Built with minimalism in mind</sub>
-  </p>
+  stack: {
+    languages: ['Python', 'Rust', 'TypeScript', 'Go'],
+    ml: ['PyTorch', 'TensorFlow', 'JAX'],
+    tools: ['Docker', 'Kubernetes', 'Git']
+  },
   
-  <br />
-  
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=000000" width="100%" />
-  
-  <br />
-  
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=devloper-gazi&style=flat-square&color=000000&label=VIEWS" />
-  </p>
-</div>
+  philosophy: 'Research boldly, code elegantly, iterate endlessly 🌀'
+}
 
 <br />
 
