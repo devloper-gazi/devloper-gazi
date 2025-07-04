@@ -1,16 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ee7752,10:e73c7e,20:23a6d5,30:23d5ab&height=100&section=header&text=&fontSize=0" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20there%20👋%20I'm%20Gazi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 </div>
 
-<div align="center">
-  <h1 style="font-weight: 700; font-size: 48px;">
-    <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" style="vertical-align: middle;"/> 
-    &nbsp;Gazi&nbsp;
-    <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" style="vertical-align: middle;"/>
-  </h1>
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=435&lines=Research+Student" alt="Typing SVG" />
-</div>
 
 <br/>
 
