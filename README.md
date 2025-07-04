@@ -13,6 +13,40 @@
 <br/>
 </div>
 
+ <div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=12D8FA&center=true&vCenter=true&random=false&width=300&lines=Researcher+Student" alt="Typing SVG" />
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+  </div>
+</div>
+
+<br/>
+
+<!-- Gradient Line -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- About Section with Glassmorphism Cards -->
+<div align="center">
+  <br/>
+  <h2>
+    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25">
+    <b> About Me</b>
+  </h2>
+  
+  <img align="right" width="380" src="https://raw.githubusercontent.com/Potential17/Potential17/master/github-contribution-grid-snake-dark.svg" alt="snake">
+  
+  <div align="left" style="margin: 20px;">
+    <p>
+      🔬 <b>Researcher Student</b> exploring the intersection of <b>AI</b>, <b>Quantum Computing</b>, and <b>Photonics</b><br/><br/>
+      🚀 Building <b>intelligent systems</b> that bridge theoretical physics with practical applications<br/><br/>
+      📚 Recently published: <b>"From Ether to Algorithms: The Lightborne Future of Information Systems"</b><br/><br/>
+      ⚡ Currently focused on <b>Multi-Agent AI</b>, <b>Photonic Computing</b>, and <b>Ethical Trading Systems</b>
+    </p>
+  </div>
+</div>
+
+<br clear="right"/>
+<br/>
 
 ## 🌟 About Me
 
