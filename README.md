@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/devloper-gazi/devloper-gazi/main/head.gif" width="60" alt="Yükleniyor...">
+<img src="https://raw.githubusercontent.com/devloper-gazi/devloper-gazi/main/head.gif" style="transform: rotate(90deg); width: 120px;" alt="Yükleniyor...">
   <br/><br/>
 </div>
 <div align="center">
