@@ -12,6 +12,30 @@
 </div>
 <br/>
 </div>
+
+<div align="center">
+  <table border="0" style="border: none;">
+    <tr>
+      <td width="50%" style="border: none;">
+        <h3 align="center">👋 Hello World!</h3>
+        <p align="center">
+          I'm a <strong>Research Student</strong> passionate about bridging the gap between 
+          theoretical physics and practical AI applications. My journey spans from 
+          quantum computing simulations to building ethical trading systems.
+        </p>
+      </td>
+      <td width="50%" style="border: none;">
+        <div align="center">
+          <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400px"/>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+
 ## 🌟 About Me
 <br/>
 <img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
