@@ -44,25 +44,6 @@ const gazi: Developer = {
 
 <br/>
 
-<!-- Minimal Modern Intro -->
-<div align="center">
-  
-  <a href="#">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3500&pause=1000&color=64748B&center=true&vCenter=true&width=440&lines=Researcher+Student;AI+%26+Quantum+Computing+Explorer;Open+Source+Contributor" alt="Typing SVG" />
-  </a>
-  
-  <br/>
-  
-  <!-- Modern Badges -->
-  <a href="https://www.researchgate.net/profile/Mahmut-Guezel-5">
-    <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=flat-square&logo=ResearchGate&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Quantum%20Computing-0EA5E9?style=flat-square" />
-  <img src="https://komarev.com/ghpvc/?username=devloper-gazi&style=flat-square&color=0EA5E9" alt="Profile Views" />
-</div>
-
-<br/>
-
 <!-- Tech Stack - Modern Grid -->
 <h2 align="center">⚡ Technologies</h2>
 
