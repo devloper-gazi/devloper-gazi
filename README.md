@@ -14,7 +14,7 @@
 </div>
 ## 🌟 About Me
 
-<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img src="https://raw.githubusercontent.com/devloper-gazi/devloper-gazi/main/change3.gif" width="600" alt="change animation">
 
 ```typescript
 interface Developer {
