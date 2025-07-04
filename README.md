@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.ibb.co/5WRcNxGZ/loader.gif" width="25">
+<img src="https://i.ibb.co/5WRcNxGZ/loader.gif" alt="https://i.ibb.co/5WRcNxGZ/loader.gif" width="389" height="692" class="shrinkToFit transparent">
   <br/><br/>
 </div>
 <div align="center">
