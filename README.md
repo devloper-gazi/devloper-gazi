@@ -169,21 +169,26 @@ const currentFocus = {
 
 <br/>
 
+<!-- Footer with Quote -->
 <div align="center">
-  <h3>
-    <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="20"/> 
-    "Sometimes it is the people no one can imagine anything of who do the things no one can imagine." 
-    <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="20"/>
-  </h3>
-  <p><em>- Alan Turing</em></p>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <br/><br/>
+  
+  <div style="background: linear-gradient(45deg, #12D8FA, #A6FFCB); padding: 2px; border-radius: 10px; display: inline-block;">
+    <div style="background: #0d1117; padding: 20px 40px; border-radius: 8px;">
+      <h3>
+        ✨ "Sometimes it is the people no one can imagine anything of<br/>
+        who do the things no one can imagine." ✨
+      </h3>
+      <p><b>- Alan Turing</b></p>
+    </div>
+  </div>
+  
+  <br/><br/>
+  
+  <img src="https://komarev.com/ghpvc/?username=devloper-gazi&style=for-the-badge&color=12D8FA&label=PROFILE+VIEWS" />
 </div>
 
-<br/>
-
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=devloper-gazi&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ee7752,10:e73c7e,20:23a6d5,30:23d5ab&height=100&section=footer&text=&fontSize=0" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:12D8FA,100:A6FFCB&height=120&section=footer&text=&fontSize=0" width="100%"/>
 </div>
