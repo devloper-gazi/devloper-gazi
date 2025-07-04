@@ -180,7 +180,7 @@ const currentFocus = {
     </div>
   </div>
   
-  <br/><br/>
+  <br/>
 </div>
 
 <div align="center">
