@@ -7,20 +7,6 @@
 <br/>
 </div>
 
-<!-- Minimal Animated Intro -->
-<p align="center">
-  <img src="https://readme-typing-svg.vercel.app?font=JetBrains+Mono&weight=400&size=14&duration=3000&pause=1000&color=8B8B8B&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Building+the+future+through+research+and+code" alt="Typing SVG" />
-</p>
-
-
-<!-- Modern Status Badges -->
-<div align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?color=703FFF&label=focus&query=focus&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fdevloper-gazi%2Fdevloper-gazi&style=flat-square&labelColor=1a1a1a" />
-  <img src="https://img.shields.io/badge/ai_research-active-703FFF?style=flat-square&labelColor=1a1a1a" />
-  <img src="https://komarev.com/ghpvc/?username=devloper-gazi&style=flat-square&color=703FFF&label=views" />
-</div>
-
-<br/><br/>
 
 <!-- About Section with Modern Animation -->
 <div align="center">
