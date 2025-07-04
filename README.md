@@ -46,10 +46,6 @@ const gazi: Developer = {
 
 <!-- Minimal Modern Intro -->
 <div align="center">
-  <h1>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35px" />
-    Hi, I'm Gazi
-  </h1>
   
   <a href="#">
     <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3500&pause=1000&color=64748B&center=true&vCenter=true&width=440&lines=Researcher+Student;AI+%26+Quantum+Computing+Explorer;Open+Source+Contributor" alt="Typing SVG" />
