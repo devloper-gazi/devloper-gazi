@@ -264,7 +264,7 @@ const gazi: Developer = {
         <sub>Deep Learning • Multi-Agent Systems • Neural Networks</sub>
       </td>
       <td align="center" width="25%">
-        <img src="https://github.com/devloper-gazi/devloper-gazi/blob/main/quantum-computing.png" width="60px"/>
+        <img src="https://github.com/devloper-gazi/devloper-gazi/blob/main/quantum-computing4.png" width="60px"/>
         <br/><br/>
         <strong>Quantum Computing</strong>
         <br/>
