@@ -1,21 +1,23 @@
 <div align="center">
-  <table border="0" style="border: none;">
-    <tr>
-      <td width="50%" style="border: none;">
-        <h3 align="center">👋 Hello World!</h3>
-        <p align="center">
-          I'm a <strong>Research Student</strong> passionate about bridging the gap between 
-          theoretical physics and practical AI applications. My journey spans from 
-          quantum computing simulations to building ethical trading systems.
-        </p>
-      </td>
-      <td width="50%" style="border: none;">
-        <div align="center">
-          <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400px"/>
-        </div>
-      </td>
-    </tr>
-  </table>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:12D8FA,100:A6FFCB&height=120&section=header&text=&fontSize=0" width="100%"/>
+</div>
+
+<!-- Animated Banner -->
+<div align="center">
+  <img src="https://i.ibb.co/ZRDxnNHt/hello.gif" alt="Hello" width="100%"/>
+</div>
+
+<!-- Name and Title -->
+<div align="center">
+  <h1 style="font-size: 3.5rem; font-weight: 800; background: linear-gradient(45deg, #12D8FA, #A6FFCB); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+    Gazi
+  </h1>
+  
+  <div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=12D8FA&center=true&vCenter=true&random=false&width=300&lines=Researcher+Student" alt="Typing SVG" />
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+  </div>
 </div>
 
 
