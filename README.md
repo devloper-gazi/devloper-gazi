@@ -15,13 +15,14 @@
 
 <!-- Animated Gradient Background -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=703FFF&text=GAZI&height=150&fontSize=60&desc=Researcher%20Student&descAlignY=75&descAlign=50&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=703FFF&text=&height=150&fontSize=60&desc=Researcher%20Student&descAlignY=75&descAlign=50&animation=fadeIn" width="100%" />
 </div>
 
 <!-- Minimal Animated Intro -->
 <p align="center">
   <img src="https://readme-typing-svg.vercel.app?font=JetBrains+Mono&weight=400&size=14&duration=3000&pause=1000&color=8B8B8B&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Building+the+future+through+research+and+code" alt="Typing SVG" />
 </p>
+
 
 <!-- Modern Status Badges -->
 <div align="center">
