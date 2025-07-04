@@ -1,7 +1,7 @@
 <div align="center">
     <h1>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35px" />
-    Hi, I'm Gazi
+    Hi, Welcome to my Github Page
   </h1>
 </div>
 
