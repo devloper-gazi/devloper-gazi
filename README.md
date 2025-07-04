@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/devloper-gazi/devloper-gazi/main/head2.gif" width="800" alt="Yükleniyor...">
+<img src="https://raw.githubusercontent.com/devloper-gazi/devloper-gazi/main/head2.gif" width="900" alt="Yükleniyor...">
   <br/><br/>
 </div>
 <div align="center">
