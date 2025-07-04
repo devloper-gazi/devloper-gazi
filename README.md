@@ -1,5 +1,21 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20there%20👋%20I'm%20Gazi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+  <table border="0" style="border: none;">
+    <tr>
+      <td width="50%" style="border: none;">
+        <h3 align="center">👋 Hello World!</h3>
+        <p align="center">
+          I'm a <strong>Research Student</strong> passionate about bridging the gap between 
+          theoretical physics and practical AI applications. My journey spans from 
+          quantum computing simulations to building ethical trading systems.
+        </p>
+      </td>
+      <td width="50%" style="border: none;">
+        <div align="center">
+          <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400px"/>
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
 
 
