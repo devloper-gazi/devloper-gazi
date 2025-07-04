@@ -6,13 +6,37 @@
 
 <!-- Minimal Modern Intro -->
 <div align="center">
-  <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=🤖+AI+Researcher+%26+Automation+Architect;🔬+Quantum+Computing+%26+Photonics+Explorer;📊+Data+Science+%26+Trading+Systems+Expert;🚀+Open+Source+Contributor+%26+Innovator" alt="Typing SVG" />
-</div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</div>
+## 🌟 About Me
+
+<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+```typescript
+interface Developer {
+  name: string;
+  role: string[];
+  expertise: string[];
+  currentFocus: string[];
+  philosophy: string;
+}
+
+const gazi: Developer = {
+  name: "Gazi",
+  role: ["AI Researcher", "Automation Architect", "Published Author"],
+  expertise: [
+    "🤖 Machine Learning & Deep Learning",
+    "🔬 Quantum Computing & Photonics", 
+    "📊 Algorithmic Trading Systems",
+    "⚡ Process Automation & Optimization"
+  ],
+  currentFocus: [
+    "Multi-Agent AI Systems",
+    "Photonic Computing Research",
+    "Ethical AI Trading Frameworks"
+  ],
+  philosophy: "Research boldly, code elegantly, iterate endlessly 🌀"
+};
+```
 <!-- SOnra -->
   <a href="#">
     <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3500&pause=1000&color=64748B&center=true&vCenter=true&width=440&lines=Researcher+Student;AI+%26+Quantum+Computing+Explorer;Open+Source+Contributor" alt="Typing SVG" />
