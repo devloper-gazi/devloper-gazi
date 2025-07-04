@@ -1,5 +1,8 @@
 <div align="center">
-  <img width="100%" height="250px" src="https://i.ibb.co/ZRDxnNHt/hello.gif" alt="Header" />
+    <h1>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35px" />
+    Hi, I'm Gazi
+  </h1>
 </div>
 
 
