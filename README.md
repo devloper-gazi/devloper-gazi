@@ -105,24 +105,6 @@ const gazi: Developer = {
 
 <br/>
 
-## <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-9893fc773e44.gif" width="25"> Tech Stack
-
-<div align="center">
-  
-  <img src="https://skillicons.dev/icons?i=python,rust,js,ts,go,cpp,c" />
-  
-  <br/>
-  
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,react,nextjs,nodejs,express,fastapi" />
-  
-  <br/>
-  
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,linux,aws,postgres,mongodb" />
-  
-</div>
-
-<br/>
-
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="25"> Featured Work
 
 <div align="center">
