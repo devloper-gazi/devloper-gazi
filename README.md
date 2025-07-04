@@ -44,28 +44,11 @@ const gazi: Developer = {
 
 <br/>
 
-<h2 align="center">⚡ Technologies</h2>
-
-<p align="center">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" alt="Python"/>
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="48" alt="JavaScript"/>
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="48" alt="TypeScript"/>
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" alt="React"/>
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="48" alt="Docker"/>
-  <img src="https://skillicons.dev/icons?i=rust" width="48" alt="Rust"/>
-  <img src="https://skillicons.dev/icons?i=go" width="48" alt="Go"/>
-  <img src="https://skillicons.dev/icons?i=cpp" width="48" alt="C++"/>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,nodejs,nextjs,tailwind,postgres,mongodb,linux,git&theme=dark" />
-</p>
-
 <!-- Tech Stack - Modern Grid -->
 <h2 align="center">⚡ Technologies</h2>
 
 <div align="center">
-  <table  border="0">
+  <table  border-color="white">
     <tr  border="0">
       <td align="center" width="96"  border="0">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="48" height="48" />
