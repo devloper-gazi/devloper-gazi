@@ -178,7 +178,7 @@ const currentFocus = {
 <br/>
 
 <!-- Tech Stack - Modern Grid -->
-<h2 align="center">⚡ Technologies</h2>
+## <img src="https://raw.githubusercontent.com/devloper-gazi/devloper-gazi/main/Lightning.gif" width="25px" alt="Lightning"> Technologies
 
 <div align="center">
   <table  border-color="white">
