@@ -42,10 +42,6 @@ const gazi: Developer = {
 
 <br clear="right"/>
 
----
-
-
-
 <br/>
 
 <!-- Footer with Quote -->
