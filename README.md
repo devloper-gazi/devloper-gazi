@@ -152,10 +152,6 @@ const gazi: Developer = {
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devloper-gazi&layout=compact&hide_border=true&title_color=6366F1&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devloper-gazi&theme=transparent&hide_border=true&stroke=6366F1&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub Streak"/>
-</div>
-
 <br/>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="25"> Currently Working On
