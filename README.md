@@ -2,19 +2,7 @@
 
   <img src="https://raw.githubusercontent.com/devloper-gazi/devloper-gazi/main/head2.gif" alt="Header Banner" width="100%" />
 
-<div align="center">
-
-  <img src="https://raw.githubusercontent.com/devloper-gazi/devloper-gazi/main/head2.gif" alt="Header Banner" width="100%" />
-
-  <br/><br/>
-
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=28&color=58A6FF&center=true&vCenter=true&width=600&repeat=false&lines=Loading+Please+Wait..." alt="Loading Please Wait..." />
-
-  <br/><br/>
-
-**AI Researcher · Quantum Computing · Published Author**
-
-*Building the future, one algorithm at a time.*
+# Loading Please Wait...
 
 </div>
 
