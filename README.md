@@ -2,7 +2,7 @@
 
   <img src="https://raw.githubusercontent.com/devloper-gazi/devloper-gazi/main/head2.gif" alt="Header Banner" width="100%" />
 
-# Mahmut Gazi Güzel
+# Loading Please Wait...
 
 **AI Researcher · Quantum Computing · Published Author**
 
