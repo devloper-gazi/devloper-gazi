@@ -128,19 +128,6 @@ const gazi: Developer = {
 
 <br/>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="25"> Featured Work
-
-<div align="center">
-  <a href="https://github.com/devloper-gazi/Decentralized-Knowledge-Guardian">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devloper-gazi&repo=Decentralized-Knowledge-Guardian&theme=transparent&hide_border=true&title_color=6366F1&text_color=94A3B8&icon_color=6366F1&bg_color=0d1117" />
-  </a>
-  <a href="https://github.com/devloper-gazi/QuantumBreaths1D">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devloper-gazi&repo=QuantumBreaths1D&theme=transparent&hide_border=true&title_color=6366F1&text_color=94A3B8&icon_color=6366F1&bg_color=0d1117" />
-  </a>
-</div>
-
-<br/>
-
 <div align="center">
   <a href="https://github.com/devloper-gazi/3D-Polariton-Condensate-Simulation">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devloper-gazi&repo=3D-Polariton-Condensate-Simulation&theme=transparent&hide_border=true&title_color=6366F1&text_color=94A3B8&icon_color=6366F1&bg_color=0d1117" />
