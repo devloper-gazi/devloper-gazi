@@ -1,305 +1,163 @@
-<img src="https://raw.githubusercontent.com/devloper-gazi/devloper-gazi/main/head2.gif" width="100%" alt="Header Banner">
-
+<!-- Header -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=%F0%9F%91%8B+Hi%2C+Welcome+to+my+GitHub+Page;AI+Researcher+%E2%80%A2+Quantum+Computing+%E2%80%A2+Author" alt="Typing SVG" />
-  </a>
+
+  <img src="https://raw.githubusercontent.com/devloper-gazi/devloper-gazi/main/head2.gif" alt="Header Banner" width="100%" />
+
+  <br/>
+
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=70&lines=AI+Researcher+%E2%80%A2+Quantum+Computing+%E2%80%A2+Author;Building+the+future%2C+one+algorithm+at+a+time.)](https://git.io/typing-svg)
+
 </div>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<br/>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="25"> About Me
-
-<img align="right" alt="Coding" width="350" src="https://github.com/devloper-gazi/devloper-gazi/blob/main/work-man.gif">
+## 👋 About Me
 
 ```typescript
-interface Developer {
-  name: string;
-  role: string[];
-  expertise: string[];
-  currentFocus: string[];
-  philosophy: string;
-}
-
 const gazi: Developer = {
-  name: "Gazi",
-  role: ["AI Researcher", "Automation Architect", "Published Author"],
+  name: "Mahmut Gazi Güzel",
+  roles: ["AI Researcher", "Automation Architect", "Published Author"],
   expertise: [
-    "🤖 Machine Learning & Deep Learning",
-    "🔬 Quantum Computing & Photonics",
-    "📊 Algorithmic Trading Systems",
-    "⚡ Process Automation & Optimization"
+    "Machine Learning & Deep Learning",
+    "Quantum Computing & Photonics",
+    "Algorithmic Trading Systems",
+    "Process Automation & Optimization",
   ],
   currentFocus: [
     "Multi-Agent AI Systems",
     "Photonic Computing Research",
-    "Ethical AI Trading Frameworks"
+    "Ethical AI Trading Frameworks",
   ],
-  philosophy: "Research boldly, code elegantly, iterate endlessly 🌀"
+  philosophy: "Research boldly, code elegantly, iterate endlessly.",
 };
 ```
 
-<br clear="right"/>
+I'm a **Research Student** passionate about bridging the gap between theoretical physics and practical AI applications — from quantum computing simulations to building ethical trading systems.
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+## 🔬 What I Do
+
+**AI Research** — Deep Learning · Multi-Agent Systems · Neural Networks
+
+**Quantum Computing** — BEC Simulations · Photonic Systems · Quantum Algorithms
+
+**Software Engineering** — Systems Design · Automation · Open Source
+
+**Data Science** — Trading Algorithms · Market Analysis · Predictive Models
 
 <br/>
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">🌍 Hello World!</h3>
-        <p align="center">
-          I'm a <strong>Research Student</strong> passionate about bridging the gap between
-          theoretical physics and practical AI applications. My journey spans from
-          quantum computing simulations to building ethical trading systems.
-        </p>
-      </td>
-      <td width="50%">
-        <div align="center">
-          <img src="https://github.com/devloper-gazi/devloper-gazi/blob/main/mario-coding.gif" width="400px"/>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
+## 📄 Recent Publication
+
+> **From Ether to Algorithms: The Lightborne Future of Information Systems**
+>
+> *2025 · Exploring photonic supersolids & next-generation computation paradigms*
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<br/>
-
-## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"> What I Do
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="25%">
-        <br/>
-        <img src="https://img.icons8.com/nolan/64/artificial-intelligence.png" width="60px"/>
-        <br/><br/>
-        <strong>AI Research</strong>
-        <br/>
-        <sub>Deep Learning • Multi-Agent Systems • Neural Networks</sub>
-        <br/><br/>
-      </td>
-      <td align="center" width="25%">
-        <br/>
-        <img src="https://github.com/devloper-gazi/devloper-gazi/blob/main/quantum-computing4.png" width="60px"/>
-        <br/><br/>
-        <strong>Quantum Computing</strong>
-        <br/>
-        <sub>BEC Simulations • Photonic Systems • Quantum Algorithms</sub>
-        <br/><br/>
-      </td>
-      <td align="center" width="25%">
-        <br/>
-        <img src="https://img.icons8.com/nolan/64/code.png" width="60px"/>
-        <br/><br/>
-        <strong>Software Engineering</strong>
-        <br/>
-        <sub>Systems Design • Automation • Open Source</sub>
-        <br/><br/>
-      </td>
-      <td align="center" width="25%">
-        <br/>
-        <img src="https://img.icons8.com/nolan/64/combo-chart.png" width="60px"/>
-        <br/><br/>
-        <strong>Data Science</strong>
-        <br/>
-        <sub>Trading Algorithms • Market Analysis • Predictive Models</sub>
-        <br/><br/>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<br/>
-
-<div align="center">
-  <a href="https://github.com/devloper-gazi/3D-Polariton-Condensate-Simulation">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devloper-gazi&repo=3D-Polariton-Condensate-Simulation&theme=transparent&hide_border=true&title_color=6366F1&text_color=94A3B8&icon_color=6366F1&bg_color=0d1117" />
-  </a>
-  <a href="https://github.com/devloper-gazi/Fx_trading_bot_v0.1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devloper-gazi&repo=Fx_trading_bot_v0.1&theme=transparent&hide_border=true&title_color=6366F1&text_color=94A3B8&icon_color=6366F1&bg_color=0d1117" />
-  </a>
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<br/>
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="25"> Recent Publication
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <br/>
-        <img src="https://img.icons8.com/nolan/96/book.png" width="80px"/>
-        <br/><br/>
-        <h3>From Ether to Algorithms: The Lightborne Future of Information Systems</h3>
-        <p><em>2025 &bull; Exploring photonic supersolids & next-generation computation paradigms</em></p>
-        <br/>
-        <a href="https://www.researchgate.net/profile/Mahmut-Guezel-5">
-          <img src="https://img.shields.io/badge/View_All_Publications-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"/>
-        </a>
-        <br/><br/>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<br/>
-
-<div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=devloper-gazi&theme=transparent&hide_border=true&stroke=6366F1&ring=6366F1&fire=A6FFCB&currStreakLabel=6366F1&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=94A3B8&background=0d1117" alt="GitHub Streak" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=devloper-gazi&bg_color=0d1117&color=6366F1&line=A6FFCB&point=6366F1&area=true&area_color=6366F1&hide_border=true" alt="Contribution Graph" />
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<br/>
-
-## <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="25"> Currently Working On
+## 🚀 Currently Working On
 
 ```typescript
 const currentFocus = {
   research: ["Multi-Agent AI Systems", "Photonic Computing", "Quantum ML"],
   building: ["Telepath Orchestrator", "AI Research Tools"],
   learning: ["Advanced Rust", "Distributed Systems", "Category Theory"],
-  philosophy: "Research boldly, code elegantly, iterate endlessly 🌀"
 };
 ```
 
 <br/>
 
+## 📌 Featured Projects
+
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
+  [![Decentralized Knowledge Guardian](https://github-readme-stats.vercel.app/api/pin/?username=devloper-gazi&repo=Decentralized-Knowledge-Guardian&theme=transparent&hide_border=true&title_color=6366F1&text_color=94A3B8&icon_color=6366F1&bg_color=0d1117)](https://github.com/devloper-gazi/Decentralized-Knowledge-Guardian)
+  [![Fx Trading Bot v0.1](https://github-readme-stats.vercel.app/api/pin/?username=devloper-gazi&repo=Fx_trading_bot_v0.1&theme=transparent&hide_border=true&title_color=6366F1&text_color=94A3B8&icon_color=6366F1&bg_color=0d1117)](https://github.com/devloper-gazi/Fx_trading_bot_v0.1)
+  [![QuantumBreaths1D](https://github-readme-stats.vercel.app/api/pin/?username=devloper-gazi&repo=QuantumBreaths1D&theme=transparent&hide_border=true&title_color=6366F1&text_color=94A3B8&icon_color=6366F1&bg_color=0d1117)](https://github.com/devloper-gazi/QuantumBreaths1D)
+  [![Ethical Foundations of AI Trading](https://github-readme-stats.vercel.app/api/pin/?username=devloper-gazi&repo=Ethical-Foundations-of-AI-Trading-Systems&theme=transparent&hide_border=true&title_color=6366F1&text_color=94A3B8&icon_color=6366F1&bg_color=0d1117)](https://github.com/devloper-gazi/Ethical-Foundations-of-AI-Trading-Systems)
+
 </div>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<br/>
-
-## <img src="https://raw.githubusercontent.com/devloper-gazi/devloper-gazi/main/Lightning.gif" width="25px" alt="Lightning"> Technologies
+## 🛠️ Tech Stack
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="48" height="48" />
-        <br>Python
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="48" height="48" />
-        <br>JavaScript
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="48" height="48" />
-        <br>TypeScript
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="48" height="48" />
-        <br>React
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="48" height="48" />
-        <br>Docker
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=rust" alt="Rust" width="48" height="48" />
-        <br>Rust
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=go" alt="Go" width="48" height="48" />
-        <br>Go
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="48" height="48" />
-        <br>C++
-      </td>
-    </tr>
-  </table>
+
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 </div>
 
 <br/>
 
+## 📊 GitHub Stats
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,nodejs,nextjs,tailwind,postgres,mongodb,linux,git&theme=dark" />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=devloper-gazi&show_icons=true&theme=transparent&hide_border=true&title_color=6366F1&text_color=94A3B8&icon_color=6366F1&bg_color=0d1117&ring_color=6366F1" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devloper-gazi&layout=compact&theme=transparent&hide_border=true&title_color=6366F1&text_color=94A3B8&bg_color=0d1117" alt="Top Languages" height="170" />
+
+</div>
+
+<div align="center">
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devloper-gazi&theme=transparent&hide_border=true&stroke=6366F1&ring=6366F1&fire=A6FFCB&currStreakLabel=6366F1&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=94A3B8&background=0d1117" alt="GitHub Streak" />
+
+</div>
+
+<div align="center">
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devloper-gazi&bg_color=0d1117&color=6366F1&line=A6FFCB&point=6366F1&area=true&area_color=6366F1&hide_border=true" alt="Contribution Graph" width="95%" />
+
 </div>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<br/>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Incoming%20Envelope.png" width="25"> Connect With Me
+## 🤝 Connect
 
 <div align="center">
-  <a href="https://www.researchgate.net/profile/Mahmut-Guezel-5">
-    <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/devloper-gazi">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmut-gazi-guzel/)
+  [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Mahmut-Guezel-5)
+  [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0007-3728-9652)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devloper-gazi)
+  [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/developer_gazi)
+
 </div>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<br/>
+---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:A6FFCB&height=2&section=header" width="100%"/>
-  <br/><br/>
-  <h3>
-    &ldquo; Sometimes it is the people no one can imagine anything of<br/>
-    who do the things no one can imagine. &rdquo;
-  </h3>
-  <p><strong>- Alan Turing</strong></p>
+
+  <i>"Sometimes it is the people no one can imagine anything of who do the things no one can imagine."</i>
   <br/>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:A6FFCB&height=2&section=header" width="100%"/>
+  <b>— Alan Turing</b>
+
+  <br/><br/>
+
+  ![Profile Views](https://komarev.com/ghpvc/?username=devloper-gazi&label=Profile%20Views&color=6366F1&style=for-the-badge)
+
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=devloper-gazi&label=Profile%20Views&color=6366F1&style=for-the-badge" alt="Profile Views" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:A6FFCB&height=120&section=footer&text=&fontSize=0" width="100%"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:A6FFCB&height=100&section=footer" width="100%" />
