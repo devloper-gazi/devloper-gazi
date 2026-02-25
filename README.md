@@ -2,7 +2,7 @@
 
   <img src="https://raw.githubusercontent.com/devloper-gazi/devloper-gazi/main/head2.gif" alt="Header Banner" width="100%" />
 
-<img src="loading_rose.svg" alt="Loading Animation" />
+<img src="https://readme-typing-svg.demolab.com/?font=Consolas&weight=400&size=22&color=FFFFFF&center=true&vCenter=true&width=400&pause=500&repeat=false&lines=Loading+Please+Wait;Loading+Please+Wait.;Loading+Please+Wait..;Loading+Please+Wait...;Loading+Please+Wait.;Loading+Please+Wait..;Loading+Please+Wait...;Loading+Please+Wait...+%F0%9F%8C%B9" alt="Loading Please Wait... 🌹" />
 
 **AI Researcher · Quantum Computing · Published Author**
 
