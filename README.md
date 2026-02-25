@@ -48,10 +48,15 @@ Multi-Agent AI Systems · Photonic Computing · Ethical AI Trading Frameworks
 
 | Project | Description |
 |---------|-------------|
-| [**Decentralized Knowledge Guardian**](https://github.com/devloper-gazi/Decentralized-Knowledge-Guardian) | Distributed knowledge management system |
-| [**QuantumBreaths1D**](https://github.com/devloper-gazi/QuantumBreaths1D) | BEC quantum simulation framework |
-| [**Ethical Foundations of AI Trading**](https://github.com/devloper-gazi/Ethical-Foundations-of-AI-Trading-Systems) | Framework for responsible algorithmic trading |
-| [**Fx Trading Bot**](https://github.com/devloper-gazi/Fx_trading_bot_v0.1) | Automated forex trading system |
+| 🌐 [**Amor Distributed AI System**](https://github.com/devloper-gazi/Amor-Distributed-Artificial-Intelligence-System) | Distributed artificial intelligence architecture |
+| 🛡️ [**Decentralized Knowledge Guardian**](https://github.com/devloper-gazi/Decentralized-Knowledge-Guardian) | Distributed knowledge management system |
+| ⚛️ [**QuantumBreaths1D**](https://github.com/devloper-gazi/QuantumBreaths1D) | BEC quantum simulation framework |
+| 🌡️ [**Panoramic Vision & Thermal Detection**](https://github.com/devloper-gazi/Advanced-Panoramic-Vision-System-with-Computational-Thermal-Detection-for-Embedded-Platforms) | Computational thermal vision for embedded platforms |
+| ⚖️ [**Ethical Foundations of AI Trading**](https://github.com/devloper-gazi/Ethical-Foundations-of-AI-Trading-Systems) | Framework for responsible algorithmic trading |
+| 🤖 [**Fx Trading Bot**](https://github.com/devloper-gazi/Fx_trading_bot_v0.1) | Automated forex trading system |
+| 📈 [**StatsCore Library**](https://github.com/devloper-gazi/StatsCore-Library) | Statistical computing and data analysis core library |
+| ⚡ [**Max-Performance Edge Detection**](https://github.com/devloper-gazi/Maximum-Performance-Edge-Line-Detection) | High-efficiency computer vision algorithm |
+| 🔬 [**New Focus Prototypes**](https://github.com/devloper-gazi/New-Focus-Prototypes) | Experimental prototypes and proof-of-concept designs |
 
 ---
 
