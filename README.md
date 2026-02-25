@@ -37,6 +37,8 @@ Multi-Agent AI Systems · Photonic Computing · Ethical AI Trading Frameworks
 
 ### Selected Projects
 
+<center>
+
 | Project | Description |
 |---------|-------------|
 | [**Decentralized Knowledge Guardian**](https://github.com/devloper-gazi/Decentralized-Knowledge-Guardian) | Distributed knowledge management system |
@@ -44,6 +46,7 @@ Multi-Agent AI Systems · Photonic Computing · Ethical AI Trading Frameworks
 | [**Ethical Foundations of AI Trading**](https://github.com/devloper-gazi/Ethical-Foundations-of-AI-Trading-Systems) | Framework for responsible algorithmic trading |
 | [**Fx Trading Bot**](https://github.com/devloper-gazi/Fx_trading_bot_v0.1) | Automated forex trading system |
 
+</center>
 ---
 
 ### Technical Proficiency
