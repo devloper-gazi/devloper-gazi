@@ -43,6 +43,7 @@ Multi-Agent AI Systems · Photonic Computing · Ethical AI Trading Frameworks
 | [**Fx Trading Bot**](https://github.com/devloper-gazi/Fx_trading_bot_v0.1) | Automated forex trading system |
 
 </div>
+
 ---
 
 ### Technical Proficiency
