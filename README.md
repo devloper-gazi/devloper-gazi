@@ -3,6 +3,7 @@
   <img src="https://raw.githubusercontent.com/devloper-gazi/devloper-gazi/main/head2.gif" alt="Header Banner" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com/?font=Consolas&weight=400&size=22&color=FFFFFF&center=true&vCenter=true&width=400&pause=400&lines=%23+Loading+Please+Wait;%23+Loading+Please+Wait.;%23+Loading+Please+Wait..;%23+Loading+Please+Wait..." alt="# Loading Please Wait..." />
+
 **AI Researcher · Quantum Computing · Published Author**
 
 *Building the future, one algorithm at a time.*
