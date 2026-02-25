@@ -170,15 +170,6 @@ const gazi: Developer = {
 
 <br/>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="25"> GitHub Analytics
-
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=devloper-gazi&show_icons=true&count_private=true&hide_border=true&title_color=6366F1&icon_color=6366F1&text_color=c9d1d9&bg_color=0d1117" alt="Gazi's github stats" />
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devloper-gazi&layout=compact&hide_border=true&title_color=6366F1&text_color=c9d1d9&bg_color=0d1117" />
-</div>
-
-<br/>
-
 <div align="center">
   <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=devloper-gazi&theme=transparent&hide_border=true&stroke=6366F1&ring=6366F1&fire=A6FFCB&currStreakLabel=6366F1&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=94A3B8&background=0d1117" alt="GitHub Streak" />
 </div>
