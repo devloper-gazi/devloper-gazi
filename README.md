@@ -4,8 +4,6 @@
 
 # Loading Please Wait...
 
----
-
 **AI Researcher · Quantum Computing · Published Author**
 
 *Building the future, one algorithm at a time.*
