@@ -8,8 +8,6 @@
 
 *Building the future, one algorithm at a time.*
 
-<br/>
-
 </div>
 
 ---
