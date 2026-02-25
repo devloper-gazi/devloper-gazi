@@ -58,25 +58,9 @@ Multi-Agent AI Systems · Photonic Computing · Ethical AI Trading Frameworks
 
 ---
 
-### Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=devloper-gazi&show_icons=true&theme=default&hide_border=true&title_color=1a1a2e&text_color=4a4a4a&icon_color=1a1a2e&bg_color=ffffff" alt="GitHub Stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devloper-gazi&layout=compact&theme=default&hide_border=true&title_color=1a1a2e&text_color=4a4a4a&bg_color=ffffff" alt="Top Languages" height="165" />
-
-</div>
-
----
-
 <div align="center">
 
 *"Sometimes it is the people no one can imagine anything of who do the things no one can imagine."*  
 — Alan Turing
 
 <br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/devloper-gazi)
-[![Patreon](https://img.shields.io/badge/Support-F96854?style=flat&logo=patreon&logoColor=white)](https://patreon.com/developer_gazi)
-
-</div>
